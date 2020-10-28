@@ -8,12 +8,12 @@
         "mata_kuliah": [
           {
             "kode_matkul": "1",
-            "nama_matul": "pemdas",
+            "nama_matkul": "pemdas",
             "sks": "5"
           },
           {
             "kode_matkul": "2",
-            "nama_matul": "matkom",
+            "nama_matkul": "matkom",
             "sks": "3"
           },
           {
@@ -31,17 +31,17 @@
         "mata_kuliah": [
           {
             "kode_matkul": "1",
-            "nama_matul": "pemdas",
+            "nama_matkul": "pemdas",
             "sks": "5"
           },
           {
             "kode_matkul": "2",
-            "nama_matul": "matkom",
+            "nama_matkul": "matkom",
             "sks": "3"
           },
           {
             "kode_matkul": "3",
-            "nama_matul": "pemin",
+            "nama_matkul": "pemin",
             "sks": "3"
           }
         ]
