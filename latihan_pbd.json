@@ -1,0 +1,50 @@
+{
+    "mahasiswa": [
+      {
+        "nim": "1",
+        "nama": "Joko",
+        "angkatan": "18",
+        "kelas": "A",
+        "mata_kuliah": [
+          {
+            "kode_matkul": "1",
+            "nama_matul": "pemdas",
+            "sks": "5"
+          },
+          {
+            "kode_matkul": "2",
+            "nama_matul": "matkom",
+            "sks": "3"
+          },
+          {
+            "kode_matkul": "3",
+            "nama_matul": "pemin",
+            "sks": "3"
+          }
+        ]
+      },
+      {
+        "nim": "2",
+        "nama": "fathin",
+        "angkatan": "18",
+        "kelas": "A",
+        "mata_kuliah": [
+          {
+            "kode_matkul": "1",
+            "nama_matul": "pemdas",
+            "sks": "5"
+          },
+          {
+            "kode_matkul": "2",
+            "nama_matul": "matkom",
+            "sks": "3"
+          },
+          {
+            "kode_matkul": "3",
+            "nama_matul": "pemin",
+            "sks": "3"
+          }
+        ]
+      }
+    ]
+  }
